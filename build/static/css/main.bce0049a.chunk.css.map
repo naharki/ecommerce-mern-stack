@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,wBAEE,YAAa,CACb,kBACF,CACA,SACE,cACF","file":"main.bce0049a.chunk.css","sourcesContent":[".slider img,\n.card-image {\n  height: 450px;\n  object-fit: contain;\n}\n.pointer {\n  cursor: pointer;\n}\n"]}
